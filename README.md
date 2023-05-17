@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <p>
  <img src="/img/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
   
-  and I'm 23 years old, I am study at Vietnam National University of Forestry and I am working at a IOTLink Company from 2021  ...
+  I'm 23 years old, I am studied at Vietnam National University of Forestry and I am working at IOTLink since 2021  ...
  </p>
 </details>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <ul>
   <li>💻 Python, JavaScript </li>
   <li>🎨 Bootstrap, VueJS, Django Framework</li>
-  <li>💣 Restful API, SQL Server, PostgreSQL</li>
+  <li>🌌 Restful API, SQL Server, PostgreSQL</li>
  </ul>
  </details>
 
