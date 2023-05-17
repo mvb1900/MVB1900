@@ -32,18 +32,15 @@ Here are some ideas to get you started:
  </ul>
 </details>
 
-<details>
-  <summary><b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b></summary>
+ # <b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b>
   <br/>
  <ul>
   <li>💻 Python, JavaScript </li>
   <li>🎨 Bootstrap, VueJS, Django Framework</li>
   <li>🌌 Restful API, SQL Server, PostgreSQL</li>
  </ul>
- </details>
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  # <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br/>
  <div align="center" class="row">
             <div class="skills">
@@ -121,8 +118,6 @@ Here are some ideas to get you started:
         </div>
 
 </div>
-
- </details>
 
 <details>
   <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
