@@ -126,9 +126,9 @@ Here are some ideas to get you started:
   <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
   <br/>
  <p align="center">
- <a href="https://github.com/MVB1900" target="_blank"> <img src='./img/skills/github.png' alt='github' height='40'> <a/>
-  <a href="https://www.linkedin.com/in/mvb1905" target="_blank"><img src='./img/skills/linkedin.png' alt='linkedin' height='40'>  </a>
-  <a href="https://www.facebook.com/mvb1905" target="_blank"><img src='./img/skills/facebook.png' alt='facebook' height='40'></a>
+ <a href="https://github.com/MVB1900" target="_blank"> <img src='./img/socials/github.png' alt='github' height='40'> <a/>
+  <a href="https://www.linkedin.com/in/mvb1905" target="_blank"><img src='./img/socials/linkedin.png' alt='linkedin' height='40'>  </a>
+  <a href="https://www.facebook.com/mvb1905" target="_blank"><img src='./img/socials/facebook.png' alt='facebook' height='40'></a>
  </p>
  </details>
 
