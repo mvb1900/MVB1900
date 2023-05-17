@@ -126,7 +126,3 @@ Here are some ideas to get you started:
  <a href="https://www.facebook.com/mvb1905" target="_blank"><img src='./img/socials/facebook.png' alt='facebook' height='40'></a>
  <a href="https://www.instagram.com/mvb1900" target="_blank"><img src='./img/socials/instagram.png' alt='instagram' height='40'></a>
  </p>
-
----
-
-<a href="https://github.com/MVB1900"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MVB1900&show_icons=true&theme=react&border_color=61dafb&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVB1900&hide=Ruby,Objective-C,C++,Shell,Objective-C++,CMake,Java,Starlark&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" /></a>
