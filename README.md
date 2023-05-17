@@ -47,70 +47,70 @@ Here are some ideas to get you started:
             <div class="skills">
             <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/html.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/css.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/javascript.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/bootstrap.png" alt=""></code>  <br/>
            <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/vuejs.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/python.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/django.png" alt=""></code>  <br/>
             <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/postgresql.png" alt=""></code>
                 <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/mongodb.png" alt=""></code>
                 <code><img style="   border: none;
     border-radius: 10px;
-    height: 3.5rem;
+    height: 3rem;
     margin: .2rem;
     padding-bottom: 1rem;
     transition: 1s;
