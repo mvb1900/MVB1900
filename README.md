@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm MVB
 
  <p align="center">
- <img src="https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif" alt="img" width="100%"/>
+ <img src="https://github.com/MVB1900/MVB1900/blob/main/img/socials/coding.gif" alt="img" width="100%"/>
 </p>
 
 <details>
