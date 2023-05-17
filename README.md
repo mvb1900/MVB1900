@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <summary><b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
  <p>
- <img src="/img/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
+ <img src="/img/socials/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
 
  ♌ 2018 - 2022: Studied at Vietnam National University of Forestry <br/>
  ♌ 2021 - Now: Developer at IOTLink.
