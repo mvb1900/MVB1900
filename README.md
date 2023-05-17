@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     height: 3rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/django.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/django.png" alt=""></code>  <br/>
             <code><img style="   border: none;
     border-radius: 10px;
     height: 3rem;
