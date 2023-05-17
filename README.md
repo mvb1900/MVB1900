@@ -117,9 +117,7 @@ Here are some ideas to get you started:
         </div>
 
 </div>
-
-<details>
-  <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
+# <b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b>
   <br/>
  <p align="center">
  <a href="https://github.com/MVB1900" target="_blank"> <img src='./img/socials/github.png' alt='github' height='40'> <a/>
@@ -127,7 +125,6 @@ Here are some ideas to get you started:
  <a href="https://www.facebook.com/mvb1905" target="_blank"><img src='./img/socials/facebook.png' alt='facebook' height='40'></a>
  <a href="https://www.instagram.com/mvb1900" target="_blank"><img src='./img/socials/instagram.png' alt='instagram' height='40'></a>
  </p>
- </details>
 
 ---
 
