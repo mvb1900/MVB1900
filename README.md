@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  <img src="https://github.com/MVB1900/MVB1900/blob/main/img/socials/coding.gif" alt="img" width="100%"/>
 </p>
 
-<details>
-  <summary><b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b></summary>
+ # <b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b>
+
   <br/>
  <p>
  <img src="/img/socials/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <li>2018 - 2022: Studied at Vietnam National University of Forestry.</li>
   <li> 2021 - Now: Developer at IOTLink.</li>
  </ul>
-</details>
 
  # <b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b>
   <br/>
