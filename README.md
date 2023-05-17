@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MVB1900/MVB1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,118 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋, I'm MVB
+
+ <p align="center">
+ <img src="https://miro.medium.com/max/1313/1*0UUwxZdDkbim-aiNVMa_mg.gif" alt="img" width="100%"/>
+</p>
+
+<details>
+  <summary><b>👨🏻‍💻&nbsp;&nbsp;About&nbsp;me</b></summary>
+  <br/>
+ <p>
+ <img src="/img/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
+  
+  and I'm 23 years old, I am study at Vietnam National University of Forestry and I am working at a IOTLink Company from 2021  ...
+ </p>
+</details>
+
+<details>
+  <summary><b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b></summary>
+  <br/>
+ <ul>
+  <li>💻 Python, JavaScript </li>
+  <li>🎨 Bootstrap, VueJS, Django Framework</li>
+  <li>💣 Restful API, SQL Server, PostgreSQL</li>
+ </ul>
+ </details>
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+ <div align="center" class="row">
+            <div class="skills">
+            <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-html-5-48.png" alt=""></code>
+           <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-css3-48.png" alt=""></code>
+           <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-javascript-48.png" alt=""></code>
+           <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-bootstrap-48.png" alt=""></code>
+           <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt=""></code>
+            <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-git-48.png" alt=""></code>
+            <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-postgresql-48.png" alt=""></code>
+            <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-react-16.png" alt=""></code>
+            <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-sass-48.png" alt=""></code>
+        </div>
+        </div>
+
+</div>
+
+ </details>
+
+<details>
+  <summary><b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b></summary>
+  <br/>
+ <p align="center">
+ <a href="https://github.com/MVB1900" target="_blank"> <img src='./img/github.png' alt='github' height='40'> <a/>
+  <a href="https://www.linkedin.com/in/mvb1905" target="_blank"><img src='./img/linkedin.png' alt='linkedin' height='40'>  </a>
+  <a href="https://www.facebook.com/mvb1905" target="_blank"><img src='./img/facebook.png' alt='facebook' height='40'></a>
+ </p>
+ </details>
+
+---
+
+<a href="https://github.com/MVB1900"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MVB1900&show_icons=true&theme=react&border_color=61dafb&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVB1900&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
