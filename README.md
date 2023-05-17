@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 </div>
 
-# <b>📫 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b>
+# <b>📞 &nbsp;&nbsp;How&nbsp;to&nbsp;reach me</b>
   <br/>
  <p align="center">
  <a href="https://github.com/MVB1900" target="_blank"> <img src='./img/socials/github.png' alt='github' height='40'> <a/>
