@@ -100,13 +100,6 @@ Here are some ideas to get you started:
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-react-16.png" alt=""></code>
-            <code><img style="   border: none;
-    border-radius: 10px;
-    width: 2rem;
-    height: 2rem;
-    margin: .2rem;
-    transition: 1s;
     transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-sass-48.png" alt=""></code>
         </div>
         </div>
