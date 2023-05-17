@@ -25,7 +25,8 @@ Here are some ideas to get you started:
  <p>
  <img src="/img/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
   
-  I'm 23 years old, I am studied at Vietnam National University of Forestry and I am working at IOTLink since 2021  ...
+ 2018 - 2022: Studied at Vietnam National University of Forestry
+ 2021 - ----: Working at IOTLink
  </p>
 </details>
 
