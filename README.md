@@ -51,56 +51,70 @@ Here are some ideas to get you started:
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-html-5-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/html.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-css3-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/css.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-javascript-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/javascript.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-bootstrap-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/bootstrap.png" alt=""></code>
            <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/vuejs.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-git-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/python.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-postgresql-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/django.png" alt=""></code>
             <code><img style="   border: none;
     border-radius: 10px;
     width: 2rem;
     height: 2rem;
     margin: .2rem;
     transition: 1s;
-    transform: rotate(-15deg);" src="https://github.com/ibrahemomari/ibrahemomari/blob/main/skills/icons8-sass-48.png" alt=""></code>
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/postgresql.png" alt=""></code>
+                <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/mongodb.png" alt=""></code>
+                <code><img style="   border: none;
+    border-radius: 10px;
+    width: 2rem;
+    height: 2rem;
+    margin: .2rem;
+    transition: 1s;
+    transform: rotate(-15deg);" src="https://github.com/MVB1900/MVB1900/blob/main/img/skills/mongodb.png" alt=""></code>
         </div>
         </div>
 
