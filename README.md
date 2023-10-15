@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <br/>
  <p>
- <img src="/img/socials/Developer.gif" width="45px"> I'm a Back-End Developer (going to Fullstack Web Developer)
+ <img src="/img/socials/Developer.gif" width="45px"> I'm a Back-End Developer
  </p>
 
  <ul>
