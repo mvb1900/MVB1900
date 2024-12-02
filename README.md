@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
  <ul>
   <li>2018 - 2022: Studied at Vietnam National University of Forestry.</li>
-  <li>2021 - Present: Developer at IOTLink.</li>
+  <li>2021 - 2023: Developer at IOTLink.</li>
+  <li>2024 - Present: Developer at MetaTwin.</li>
  </ul>
 
  # <b>🎮&nbsp;&nbsp;Skills&nbsp;&&nbsp;Experience</b>
