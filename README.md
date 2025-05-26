@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm MVB
 
 ## Tools
-[QRCode Generator](https://noobqr.com)).
-[Scoreboard Generator](https://checkvot.vn)).
+ <ul>
+  <li>[QRCode Generator](https://noobqr.com).</li>
+  <li>[Scoreboard Generator](https://checkvot.vn).</li>
+ </ul>
+
+
 
  <p align="center">
  <img src="https://github.com/MVB1900/MVB1900/blob/main/img/socials/coding.gif" alt="img" width="100%"/>
