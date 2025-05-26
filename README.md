@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm MVB
 
 ## Tools
-- 1. [QRCode Generator](https://noobqr.com)
-- 2. [Scoreboard Generator](https://checkvot.vn)
+1. [QRCode Generator](https://noobqr.com)<br/>
+2. [Scoreboard Generator](https://checkvot.vn)
 
 
 
