@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm MVB
 
 ## Tools
- <ul>
-  <li>[QRCode Generator](https://noobqr.com).</li>
-  <li>[Scoreboard Generator](https://checkvot.vn).</li>
- </ul>
+- [QRCode Generator](https://noobqr.com)
+- [Scoreboard Generator](https://checkvot.vn)
+
 
 
 
