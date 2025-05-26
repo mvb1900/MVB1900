@@ -1,10 +1,6 @@
 <!--
 **MVB1900/MVB1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Tools
-[QRCode Generator](https://noobqr.com)).
-[Scoreboard Generator](https://checkvot.vn)).
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋, I'm MVB
+
+## Tools
+[QRCode Generator](https://noobqr.com)).
+[Scoreboard Generator](https://checkvot.vn)).
 
  <p align="center">
  <img src="https://github.com/MVB1900/MVB1900/blob/main/img/socials/coding.gif" alt="img" width="100%"/>
